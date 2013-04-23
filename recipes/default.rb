@@ -1,5 +1,4 @@
 package 'maven' do
-  action :install
   version node['maven']['version']
 end
 
