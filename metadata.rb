@@ -1,3 +1,4 @@
+name              'maven'
 maintainer        'Tommy Bishop'
 maintainer_email  'thomas_bishop@intuit.com'
 license           'Apache 2.0'
